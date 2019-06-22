@@ -1,0 +1,15 @@
+C:\Users\overl\Source\Repos\CodeKatas1\LookAndSayTests\obj\Debug\LookAndSayTests.csprojResolveAssemblyReference.cache
+C:\Users\overl\Source\Repos\CodeKatas1\LookAndSayTests\obj\Debug\LookAndSayTests.csproj.CoreCompileInputs.cache
+C:\Users\overl\Source\Repos\CodeKatas1\LookAndSayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\overl\Source\Repos\CodeKatas1\LookAndSayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\overl\Source\Repos\CodeKatas1\LookAndSayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\overl\Source\Repos\CodeKatas1\LookAndSayTests\bin\Debug\LookAndSayTests.dll
+C:\Users\overl\Source\Repos\CodeKatas1\LookAndSayTests\bin\Debug\LookAndSayTests.pdb
+C:\Users\overl\Source\Repos\CodeKatas1\LookAndSayTests\bin\Debug\LookAndSay.dll
+C:\Users\overl\Source\Repos\CodeKatas1\LookAndSayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\overl\Source\Repos\CodeKatas1\LookAndSayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\overl\Source\Repos\CodeKatas1\LookAndSayTests\bin\Debug\LookAndSay.pdb
+C:\Users\overl\Source\Repos\CodeKatas1\LookAndSayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\overl\Source\Repos\CodeKatas1\LookAndSayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\overl\Source\Repos\CodeKatas1\LookAndSayTests\obj\Debug\LookAndSayTests.dll
+C:\Users\overl\Source\Repos\CodeKatas1\LookAndSayTests\obj\Debug\LookAndSayTests.pdb

@@ -1,0 +1,5 @@
+C:\Users\overl\Source\Repos\CodeKatas1\PrimeNumbers\bin\Debug\PrimeNumbers.dll
+C:\Users\overl\Source\Repos\CodeKatas1\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+C:\Users\overl\Source\Repos\CodeKatas1\PrimeNumbers\obj\Debug\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\overl\Source\Repos\CodeKatas1\PrimeNumbers\obj\Debug\PrimeNumbers.dll
+C:\Users\overl\Source\Repos\CodeKatas1\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

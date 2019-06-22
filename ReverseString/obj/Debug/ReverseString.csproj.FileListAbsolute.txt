@@ -1,0 +1,5 @@
+C:\Users\overl\Source\Repos\CodeKatas1\ReverseString\bin\Debug\ReverseString.dll
+C:\Users\overl\Source\Repos\CodeKatas1\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\overl\Source\Repos\CodeKatas1\ReverseString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\overl\Source\Repos\CodeKatas1\ReverseString\obj\Debug\ReverseString.dll
+C:\Users\overl\Source\Repos\CodeKatas1\ReverseString\obj\Debug\ReverseString.pdb

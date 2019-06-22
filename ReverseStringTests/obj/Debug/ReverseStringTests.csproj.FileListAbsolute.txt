@@ -1,0 +1,15 @@
+C:\Users\overl\Source\Repos\CodeKatas1\ReverseStringTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\overl\Source\Repos\CodeKatas1\ReverseStringTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\overl\Source\Repos\CodeKatas1\ReverseStringTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\overl\Source\Repos\CodeKatas1\ReverseStringTests\bin\Debug\ReverseStringTests.dll
+C:\Users\overl\Source\Repos\CodeKatas1\ReverseStringTests\bin\Debug\ReverseStringTests.pdb
+C:\Users\overl\Source\Repos\CodeKatas1\ReverseStringTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\overl\Source\Repos\CodeKatas1\ReverseStringTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\overl\Source\Repos\CodeKatas1\ReverseStringTests\bin\Debug\ReverseString.dll
+C:\Users\overl\Source\Repos\CodeKatas1\ReverseStringTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\overl\Source\Repos\CodeKatas1\ReverseStringTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\overl\Source\Repos\CodeKatas1\ReverseStringTests\bin\Debug\ReverseString.pdb
+C:\Users\overl\Source\Repos\CodeKatas1\ReverseStringTests\obj\Debug\ReverseStringTests.csprojResolveAssemblyReference.cache
+C:\Users\overl\Source\Repos\CodeKatas1\ReverseStringTests\obj\Debug\ReverseStringTests.csproj.CoreCompileInputs.cache
+C:\Users\overl\Source\Repos\CodeKatas1\ReverseStringTests\obj\Debug\ReverseStringTests.dll
+C:\Users\overl\Source\Repos\CodeKatas1\ReverseStringTests\obj\Debug\ReverseStringTests.pdb

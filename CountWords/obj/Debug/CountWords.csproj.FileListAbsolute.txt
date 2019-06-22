@@ -1,0 +1,5 @@
+C:\Users\overl\Source\Repos\CodeKatas1\CountWords\bin\Debug\CountWords.dll
+C:\Users\overl\Source\Repos\CodeKatas1\CountWords\bin\Debug\CountWords.pdb
+C:\Users\overl\Source\Repos\CodeKatas1\CountWords\obj\Debug\CountWords.csproj.CoreCompileInputs.cache
+C:\Users\overl\Source\Repos\CodeKatas1\CountWords\obj\Debug\CountWords.dll
+C:\Users\overl\Source\Repos\CodeKatas1\CountWords\obj\Debug\CountWords.pdb
